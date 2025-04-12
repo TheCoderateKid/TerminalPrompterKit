@@ -1,0 +1,55 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm
+.build/
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.lock
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Unit test and code coverage
+*.profdata
+*.gcno
+
+# Generated docs
+docs/
+
+# IDEs
+.idea/
+.vscode/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# SPM checkouts
+Packages/
+

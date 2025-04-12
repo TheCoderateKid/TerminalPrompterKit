@@ -43,7 +43,7 @@ print("Hello, \(name)!")
 
 ## Credits
 
-Inspired by the Doughboys. All love to the 'boys—Mike Mitchell and Nick Wiger—for keeping the spoon nation fed and the drop kingdom alive.
+Created by the Doughboys.
 
 ---
 
